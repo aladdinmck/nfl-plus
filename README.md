@@ -1,2 +1,2 @@
 # nfl-plus
-Model that will be able to predict NFL spreads using data scraping and ML
+Model that will be able to predict NFL spreads using data scraping and Machine Learning. 
